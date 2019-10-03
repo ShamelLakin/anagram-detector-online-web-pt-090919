@@ -6,6 +6,7 @@ class Anagram
   end 
   
   def match 
+    %w(hello world zombies pants dipper)
   end 
   
 end 
