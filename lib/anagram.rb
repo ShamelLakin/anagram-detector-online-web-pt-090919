@@ -6,7 +6,7 @@ class Anagram
   end 
   
   def match(array_of_words) 
-    %w(hello world zombies pants dipper)
+    
   end 
   
 end 
